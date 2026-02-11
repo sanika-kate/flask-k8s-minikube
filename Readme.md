@@ -115,14 +115,4 @@ minikube service flask-app-service
 
 ---
 
-## 🎯 Learning Outcomes
-
-Through this project, I gained hands-on experience with:
-
-- Docker containerization
-- Kubernetes architecture
-- Pod & Service networking
-- Persistent storage in Kubernetes
-- Deploying applications on Minikube
-- Structuring DevOps projects for GitHub
 
